@@ -1,0 +1,7 @@
+pathfinder
+tools/spells/spells/html/*
+tools/spells/spells/json/*
+tools/spells/spells/translated/*
+tools/feats/feats/html/*
+tools/feats/feats/json/*
+tools/feats/feats/translated/*
