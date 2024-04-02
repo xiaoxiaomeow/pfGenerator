@@ -97,7 +97,11 @@ public class Translate {
 
         String endRegex = "(?:\n(?:先决条件|专长效果|通常状况|特殊说明|即时收益|专长目标|完成收益)|$)";
 
-        feat.put("prerequisites_zh", addBr(Tools.reg(chmText, "先决条件(?:：|:) *((.|\n)*?) *" + endRegex)));
+        String prerequisites_zh = addBr(Tools.reg(chmText, "先决条件(?:：|:) *((.|\n)*?) *" + endRegex));
+        if (prerequisites_zh != null && !prerequisites_zh.endsWith("。")) {
+            prerequisites_zh += "。";
+        }
+        feat.put("prerequisites_zh", prerequisites_zh);
         feat.put("benefit_zh", addBr(Objects.requireNonNull(Tools.reg(chmText, "(?:专长效果|即时收益)(?:：|:) *((.|\n)*?) *" + endRegex))));
         feat.put("normal_zh", addBr(Tools.reg(chmText, "通常状况(?:：|:) *((.|\n)*?) *" + endRegex)));
         feat.put("special_zh", addBr(Tools.reg(chmText, "特殊说明(?:：|:) *((.|\n)*?) *" + endRegex)));

@@ -45,6 +45,7 @@ public class HtmlToJson {
             spellPage = spellPage.replaceAll("<a\\s*(?:[^>]*?)?href=[\"'](?:[^\"']*)[\"'][^>]*>(.*?)</a>", "$1");
             // capture br
             spellPage = spellPage.replaceAll("<\\s*br\\s*(|/)\\s*>", "<br>");
+            spellPage = spellPage.replaceAll("<sup>[^<>]*?<\\/sup>", "");
 
             // descriptors
             String descriptors = Tools.reg(spellPage, "<h1 class=\"title\">(?:|<img [^<>]*>) *(?:|<img [^<>]*>) *[^\\(\\)]* *\\(([^\\(\\)]*?)\\)</h1><b>Source</b>");
