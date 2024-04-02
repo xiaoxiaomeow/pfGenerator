@@ -139,6 +139,7 @@ public class HtmlToJson {
                 prerequisites = prerequisites.replaceAll("cannot have .*?(?=,|;|\\.)", "");
                 JSONArray prerequisitesArray = new JSONArray();
                 for (String featName : featNames) {
+                    featName = featName.replaceAll("\\(.*?\\)", "");
                     if (prerequisites.matches(".*(^|,|;| or ) *" + featName + " *(|\\([^()]*\\)) *(,|;| or |\\.| with ).*")) {
                         prerequisitesArray.add(featName);
                     }
