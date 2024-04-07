@@ -93,7 +93,12 @@ public class Translate {
         feat.put("name_zh", Objects.requireNonNull(Tools.reg(chmText, "^(.*?)( \\(|（)")));
         int l = chmText.indexOf("\n");
         int r = chmText.indexOf("\n", l + 1);
-        feat.put("text_zh", chmText.substring(l + 1, r));
+        String text = chmText.substring(l + 1, r);
+        if (!text.matches("^(先决条件|专长效果|通常状况|特殊说明|即时收益|专长目标|完成收益)")) {
+            feat.put("text_zh", text);
+        } else {
+            System.err.println("Empty text in feat " + feat.getString("key"));
+        }
 
         String endRegex = "(?:\n(?:先决条件|专长效果|通常状况|特殊说明|即时收益|专长目标|完成收益)|$)";
 

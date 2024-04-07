@@ -18,9 +18,14 @@ public class Deploy {
             JSONObject spell = JSONObject.fromObject(Tools.readFile(spellFile));
             JSONObject index = new JSONObject();
 
-            String[] keys = new String[] {"key", "name", "name_zh", "school", "subSchools", "subSchoolsOperator", "descriptors", "levels", "descriptorsOperator", "source", "race", "castingTime_zh", "spellResistance_zh", "savingThrow_zh"};
+            String[] keys = new String[] {"key", "name", "name_zh", "school", "subSchools", "subSchoolsOperator", "descriptors", "levels", "descriptorsOperator",
+                    "source", "race", "castingTime_zh", "duration_zh", "range_zh", "spellResistance_zh", "savingThrow_zh"};
             for (String key : keys) {
                 index.put(key, spell.get(key));
+            }
+
+            if (spell.containsKey("mythicText")) {
+                index.put("mythic", true);
             }
 
             spells.add(index);

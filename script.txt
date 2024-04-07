@@ -1,4 +1,4 @@
-python -m http.server --directory E:\encyclopedia
+python -m http.server --directory C:\Users\xiaoxiao\Desktop\encyclopedia
 
 (?<=\n(学派|环位|施法时间|成分|范围|目标|区域|目标或区域|持续时间|豁免|法术抗力|效果))：
 
@@ -33,3 +33,5 @@ $3 ($4) [$6]
 \n\n([^（）\n]*)(?:|（[^（）\n]*?）)\n([^()\n]*)(?:|\([^()\n]*?\))\n
 
 \n\n([^ ]*) ([^【】\n]*?)(?:|【.*?】)\n
+
+\n\n([^ ]*) ([^（）\n]*?) *(?:|（.*?）) *\n
