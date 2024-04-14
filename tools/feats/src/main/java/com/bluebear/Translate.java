@@ -79,11 +79,32 @@ public class Translate {
         Tools.writeFile(target, tagsObject.toString(4));
     }
 
+    private static String analyzeText (String chmText) {
+        chmText = chmText.replaceAll("‘([^‘’]*?) \\(([^‘’]*?)\\)’", "‘<a href=\"spell.html?spell=$2\">$1 \\($2\\)</a>’");
+        StringBuilder text = new StringBuilder();
+        boolean newParagraph = true;
+        for (String paragraph : chmText.split("[\\s|　]*\n[\\s|　]*")) {
+            if (paragraph.startsWith("<div") || paragraph.startsWith("<table") || paragraph.startsWith("<tr")) {
+                text.append(paragraph);
+            } else if (paragraph.startsWith("<b>")) {
+                if (newParagraph) {
+                    text.append("</p><p>" + paragraph);
+                    newParagraph = false;
+                } else {
+                    text.append("<br>" + paragraph);
+                }
+            } else {
+                text.append("</p><p>" + paragraph);
+                newParagraph = true;
+            }
+        }
+        return text.toString().replaceAll("<p><\\/p>", "").replaceAll("^<\\/p><p>", "");
+    }
+
     private static String addBr(String text) {
         if (text == null) return null;
         text = text.trim();
-        text = text.replaceAll("\n", "</p><p>");
-        return text;
+        return analyzeText(text);
     }
 
     private static void translateFeat(JSONObject feat, String chmText) {
@@ -93,11 +114,14 @@ public class Translate {
         feat.put("name_zh", Objects.requireNonNull(Tools.reg(chmText, "^(.*?)( \\(|（)")));
         int l = chmText.indexOf("\n");
         int r = chmText.indexOf("\n", l + 1);
+        if (r == -1) {
+            r = chmText.length();
+        }
         String text = chmText.substring(l + 1, r);
-        if (!text.matches("^(先决条件|专长效果|通常状况|特殊说明|即时收益|专长目标|完成收益)")) {
-            feat.put("text_zh", text);
+        if (text.startsWith("先决条件") || text.startsWith("专长效果")) {
+            System.err.println("Empty text in feat " + feat.getString("key") + ", " + feat.get("source"));
         } else {
-            System.err.println("Empty text in feat " + feat.getString("key"));
+            feat.put("text_zh", text);
         }
 
         String endRegex = "(?:\n(?:先决条件|专长效果|通常状况|特殊说明|即时收益|专长目标|完成收益)|$)";
@@ -161,7 +185,7 @@ public class Translate {
                     System.out.println(chmText);
                     System.exit(0);
                 }
-                System.out.println("Translating feat " + key);
+                // System.out.println("Translating feat " + key);
                 key = key.toLowerCase().replaceAll("/", "-");
                 File spellFile = new File(ref, key + ".json");
                 if (!spellFile.exists()) {
@@ -180,7 +204,7 @@ public class Translate {
                 }
                 File spellTarget = new File(target, key + ".json");
                 if (spellTarget.exists()) {
-                    System.err.println("Duplicate Spell " + key);
+                    System.err.println("Duplicate Feat " + key);
                 } else {
                     Tools.writeFile(spellTarget, feat.toString(4));
                 }

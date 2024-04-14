@@ -137,7 +137,7 @@ public class HtmlToJson {
             if (feat.containsKey("prerequisites")) {
                 System.out.println("Building tree for " + feat.getString("key"));
                 String prerequisites = feat.getString("prerequisites").toLowerCase();
-                prerequisites = prerequisites.replaceAll("cannot have .*?(?=,|;|\\.)", "");
+                prerequisites = prerequisites.replaceAll("cannot have .*?(?=,|;|\\.)", "").replaceAll("†", "");
                 JSONArray prerequisitesArray = new JSONArray();
                 for (String featName : featNames) {
                     featName = featName.replaceAll("\\(.*?\\)", "");
