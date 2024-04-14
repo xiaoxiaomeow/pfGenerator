@@ -26,7 +26,7 @@
 暴风的庆典。目标可以使用一次羽落术（feather fall）。
 强化：目标获得+4神圣加值（sacred bonus）在对抗气描述符效果的豁免上。
 动物领域（Animal）
-野兽的仪式。目标可以使用一次动物交谈（speak with animals ）（该效果持续3轮）。
+野兽的仪式。目标可以使用一次动物交谈（speak with animals）（该效果持续3轮）。
 强化：目标可以使用一次魅惑动物（charm animal）。
 手艺领域（Artifice）
 机械装置的宗教仪式（吐糟：开光？）。目标可以通过一个接触来治疗一个构装生物（construct creature），并治疗1d3点伤害。
@@ -74,7 +74,7 @@
 治安的遵守。目标在下一个对抗混乱阵营敌手而使用的战技检定上获得+5神圣加值（sacred bonus）。
 强化：目标在对抗混乱阵营敌手的CMD上获得+2神圣加值（sacred bonus）。
 解放领域（Liberation）
-自由节。目标可以使用一次移除恐惧（remove fear ）。
+自由节。目标可以使用一次移除恐惧（remove fear）。
 强化：目标在CMD上获得+2神圣加值（sacred bonus）。
 机运领域（Luck）
 好运的节日。下一次目标骰1个d20时，他可以骰两次并取得更有利的结果。

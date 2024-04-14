@@ -15,7 +15,7 @@
 为主而亡 (Die For Your Master)
 学派            惑控 (胁迫) 
 环位            反圣武士 4，德鲁伊/猎人 5，术士/法师/奥能师 5，女巫 5
-该法术的功能如同为主而伤（Bleed For Your Master）一般，不过它允许你的动物伙伴或者魔宠抵挡任何以你为目标的攻击，包括那些不需要攻击检定的攻击（例如连环闪电[chain lightning] ，怪物定身术[hold monster] 以及魔法飞弹[magic missile] ）。你的动物伙伴或魔宠无法阻挡那些对其生物类型无效的效果（例如支配人类[dominate person] ）。
+该法术的功能如同为主而伤（Bleed For Your Master）一般，不过它允许你的动物伙伴或者魔宠抵挡任何以你为目标的攻击，包括那些不需要攻击检定的攻击（例如连环闪电[chain lightning] ，怪物定身术[hold monster] 以及魔法飞弹[magic missile]）。你的动物伙伴或魔宠无法阻挡那些对其生物类型无效的效果（例如支配人类[dominate person]）。
 魔宠幻象 (Familiar Figment)
 学派            幻术 (虚假幻觉) 
 环位            术士/法师/奥能师 2，女巫 2
