@@ -6,3 +6,4 @@ git add .
 git commit -m %1
 npm run deploy
 git push
+cd ..
