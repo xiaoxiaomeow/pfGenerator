@@ -15,7 +15,7 @@
 <tr><td>无拘（混乱）</td><td>6</td><td>10</td></tr>
 <tr><td>邪道（邪恶）</td><td>6</td><td>10</td></tr>
 <tr><td>机警（守序）</td><td>6</td><td>10</td></tr>
-<tr><td colspan="3">* 你所选的类型必须符合你的引导能量能力。</td></tr></table></div>
+<tr><td colSpan="3">* 你所选的类型必须符合你的引导能量能力。</td></tr></table></div>
 
 祝福武具（Bless Equipment）
 通过接触，你可以祝福武具，给予它们魔法能力。

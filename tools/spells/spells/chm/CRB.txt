@@ -1657,14 +1657,14 @@
 	<tr><td>刺目 (Overwhelming)</td><td>1d6天</td></tr></table></div>
 　　动物、陷阱、毒素以及其他潜在威胁都不是邪恶的，因此该法术无法侦测到这些事物。在判断该法术的效果时，积极行恶的生物算作邪恶生物。
 　　每轮你都可以转而侦测新的区域。该法术可穿透障碍，不过1尺厚的岩石，1英吋厚的普通金属，铅薄片或3尺厚的木头或泥土都可以挡住它。
-	<div class="inner"><table><tr><th rowspan="2">生物或物体</th><th colspan="5">灵光强度</th></tr>
+	<div class="inner"><table><tr><th rowSpan="2">生物或物体</th><th colSpan="5">灵光强度</th></tr>
 	<tr><th>无</th><th>昏暗</th><th>中等</th><th>强烈</th><th>刺目</th></tr>
 	<tr><td>对应阵营的生物 (HD) (※1)</td><td>4以下</td><td>5 – 10</td><td>11 – 25</td><td>26 – 50</td><td>51以上</td></tr>
 	<tr><td>对应阵营的不死生物 (HD)</td><td>–</td><td>2以下</td><td>3 – 8</td><td>9 – 20</td><td>21以上</td></tr>
 	<tr><td>对应阵营的异界生物 (HD)</td><td>–</td><td>1以下</td><td>2 – 4</td><td>5 – 10</td><td>11以上</td></tr>
 	<tr><td>信奉对应阵营神祇的牧师或圣武士 (职业等级) (※2)</td><td>–</td><td>1</td><td>2 – 4</td><td>5 – 10</td><td>11以上</td></tr>
 	<tr><td>对应阵营的魔法物品或法术 (CL)</td><td>5以下</td><td>6 – 10</td><td>11 – 15</td><td>16 – 20</td><td>21以上</td></tr>
-	<tr><td colspan="6">※1　不死生物与异界生物除外, 它们在该表格中有自己的分类.<br>※2　有些非牧师角色也会散发出相同强度的灵光. 请详细查阅职业的具体描述以确定是否适用于该表格.</td></tr></table></div>
+	<tr><td colSpan="6">※1　不死生物与异界生物除外, 它们在该表格中有自己的分类.<br>※2　有些非牧师角色也会散发出相同强度的灵光. 请详细查阅职业的具体描述以确定是否适用于该表格.</td></tr></table></div>
 侦测善良 (Detect Good)
 学派              预言系
 环位              牧师/先知 1, 审判者 1
@@ -1697,7 +1697,7 @@
 	<tr><td>刺目 (Overwhelming)</td><td>1d6天</td></tr></table></div>
 　　异界生物和元素生物本身不具有魔法灵光，但如果它们是被召唤来的，则会显示为咒法系法术。每轮你都可以转而侦测新的区域。该法术可穿透障碍，不过1尺厚的岩石，1英吋厚的普通金属，铅薄片或3尺厚的木头或泥土都可以挡住它。
 　　侦测魔法可以被‘魔法恒定术 (permanency)’恒定。
-	<div class="inner"><table><tr><th rowspan="2">法术或物体</th><th colspan="4">灵光强度</th></tr>
+	<div class="inner"><table><tr><th rowSpan="2">法术或物体</th><th colSpan="4">灵光强度</th></tr>
 	<tr><th>昏暗</th><th>中等</th><th>强烈</th><th>刺目</th></tr>
 	<tr><td>正在生效的法术 (法术环位)</td><td>3以下</td><td>4 – 6</td><td>7 – 9</td><td>10以上 (神祇等级)</td></tr>
 	<tr><td>魔法物品 (CL)</td><td>5以下</td><td>6 – 11</td><td>12 – 20</td><td>21以上 (神器等级)</td></tr></table></div>
@@ -4212,7 +4212,7 @@
 	<tr><td>贵金属</td><td>20分钟/等级</td></tr>
 	<tr><td>宝石</td><td>10分钟/等级</td></tr>
 	<tr><td>稀有金属*</td><td>1轮/等级</td></tr>
-	<tr><td colspan="2">* 包括精金, 炼银以及秘银。你无法使用强效造物术创造寒铁物品。</td></tr></table></div>
+	<tr><td colSpan="2">* 包括精金, 炼银以及秘银。你无法使用强效造物术创造寒铁物品。</td></tr></table></div>
 强效幻影 (Major Image)
 学派              幻术系 (虚假幻觉)
 环位              吟游诗人 3, 魔战士 3, 术士/法师 3
@@ -4502,7 +4502,7 @@
 	<tr><td>画像或图片</td><td>–2</td></tr>
 	<tr><td>所有物或衣物</td><td>–4</td></tr>
 	<tr><td>身体的一部分, 一束毛发, 指甲等</td><td>–10</td></tr>
-	<tr><td colspan="2">* 若你对目标生物一无所知，就必须具有某种关联物。</td></tr></table></div>
+	<tr><td colSpan="2">* 若你对目标生物一无所知，就必须具有某种关联物。</td></tr></table></div>
 　　当你施展此法术时，如果有另一名施法者对受术者使用‘反制邪恶 (dispel evil)’，则梦魇会被解除，同时你会被震慑，震慑时间为‘反制邪恶’法术的每CL 10分钟。
 　　如果施法时目标生物是清醒的，你可以选择停止施法 (法术终止)，或是进入出神状态静待该生物入睡。只要他一睡着，你就会立即得知并完成施法。如果在出神状态时被打搅，你必须通过专注检定 (如同你在施法时被打搅一样)，否则法术就会终止。
 　　若你选择进入出神状态的话，那么在出神状态中你无法得知外界发生的事情。
@@ -4649,7 +4649,7 @@
 	<tr><td>‘缩小术 (reduce person)’</td><td>9级</td><td>2500gp</td></tr>
 	<tr><td>‘提升抗力 (resistance)’</td><td>9级</td><td>2500gp</td></tr>
 	<tr><td>‘心灵连线* (telepathic bond)’</td><td>13级</td><td>12500gp</td></tr>
-	<tr><td colspan="3">* 每次魔法恒定术只能连接两个生物.</td></tr></table></div>
+	<tr><td colSpan="3">* 每次魔法恒定术只能连接两个生物.</td></tr></table></div>
 　　除此之外，下列法术仅能被施放在物体或区域上，并且被恒定住。
 	<div class="inner"><table><tr><th>法术</th><th>最低CL</th><th>开销</th></tr>
 	<tr><td>‘魔法警报 (alarm)’</td><td>9级</td><td>2500gp</td></tr>
@@ -4908,7 +4908,7 @@
 	<tr><td>相同体型</td><td>+2</td></tr>
 	<tr><td>有关联 (树枝与树木, 狼皮与狼等等)</td><td>+2</td></tr>
 	<tr><td>相同或更低的智力属性</td><td>+2</td></tr>
-	<tr><td colspan="2">* 将所有可用的因素相加，按照其总值在下表中查询。</td></tr></table></div>
+	<tr><td colSpan="2">* 将所有可用的因素相加，按照其总值在下表中查询。</td></tr></table></div>
 	<p></p>
 	<div class="inner"><table><tr><th>持续时间因子</th><th>持续时间</th><th>范例</th></tr>
 	<tr><td>0</td><td>20分钟</td><td>石头变成人</td></tr>
@@ -5048,7 +5048,7 @@
 	<tr><td>第五</td><td>蓝色</td><td>阻止预言系法术和精神攻击;<br>变为石头 (强韧, 通过则无效)</td><td>‘魔法飞弹 (Magic missile)’</td></tr>
 	<tr><td>第六</td><td>靛色</td><td>阻止所有法术;<br>变疯, 如同‘精神错乱 (insanity)’法术一般 (意志, 通过则无效)</td><td>‘昼明术 (Daylight)’</td></tr>
 	<tr><td>第七</td><td>紫色</td><td>能量场会摧毁所有物体与效果*;<br>生物被送至其他位面 (意志, 通过则无效)</td><td>‘解除魔法 (dispel magic)’ 或 ‘高等解除魔法 (greater dispel magic)’</td></tr>
-	<tr><td colspan="4">* 紫色效果会使得其他六种颜色的效果变得多余; 但由于某些魔法物品同一时间只能创造出一种虹光效果, 且法术抗力可能让某些颜色无法生效 (见上文), 因此也一并列出.</td></tr></table></div>
+	<tr><td colSpan="4">* 紫色效果会使得其他六种颜色的效果变得多余; 但由于某些魔法物品同一时间只能创造出一种虹光效果, 且法术抗力可能让某些颜色无法生效 (见上文), 因此也一并列出.</td></tr></table></div>
 燃火术 (Produce Flame)
 学派              塑能系 [火]
 环位              德鲁伊 1
@@ -5710,7 +5710,7 @@
 	<tr><td>画像或图片</td><td>–2</td></tr>
 	<tr><td>所有物或衣物</td><td>–4</td></tr>
 	<tr><td>身体的一部分, 一束毛发, 指甲等</td><td>–10</td></tr>
-	<tr><td colspan="2">* 若你对目标生物一无所知，就必须具有某种关联物。</td></tr></table></div>
+	<tr><td colSpan="2">* 若你对目标生物一无所知，就必须具有某种关联物。</td></tr></table></div>
 　　若豁免失败，你能够看到并听到受术者以及其周围环境 (大约为受术者周边全方位10尺距离)。若受术者移动，感受器也会以至多150尺的速度进行跟随。
 　　与所有预言系 (探知) 法术一样，感受器拥有你的全部视觉灵敏度，包括任何魔法效果。此外，后述法术有每CL 5%的概率能够透过感受器运作：‘侦测混乱 (detect chaos)’、‘侦测邪恶 (detect evil)’、‘侦测善良 (detect good)’、‘侦测秩序 (detect law)’、‘侦测魔法 (detect magic)’以及‘传讯术 (message)’。
 　　若豁免成功，你无法在24小时内再次尝试探知同一个受术者。
@@ -6510,7 +6510,7 @@
 　　召唤来的怪物无法召唤 (summon) 或者以其他方式呼唤 (conjure) 其他生物，也不能使用传送或位面旅行能力。这些生物不能被召唤到它们无法生存的环境中。被该法术召唤的生物无法使用法术或类法术能力，来复制那些具有昂贵材料成分的法术 (如‘祈愿术 (wish)’)。
 　　当你使用召唤法术来召唤一个具有阵营或元素亚种的生物时，这个法术也会具此种类别。对于上表中使用“*”标注的生物来说，若你的阵营为善良则带有天界模板 (celestial template)，若你的阵营为邪恶则带有炼狱模板 (fiendish template); 若你的阵营为中立则可以从上述模板中选择一种。无论标有“*”的生物在正常情况下会具有何种阵营，它们总是具有与你相符的阵营。召唤这些生物会使得召唤法术的类型变得与你的阵营相符。
 	<div class="inner"><table><tr><th>召唤生物</th><th>亚种</th></tr>
-	<tr><th colspan="2">1环</th></tr>
+	<tr><th colSpan="2">1环</th></tr>
 	<tr><td>凶暴鼠* (Dire rat)</td><td>–</td></tr>
 	<tr><td>犬* (Dog)</td><td>–</td></tr>
 	<tr><td>海豚* (Dolphin)</td><td>–</td></tr>
@@ -6519,7 +6519,7 @@
 	<tr><td>毒蛙* (Poisonous frog)</td><td>–</td></tr>
 	<tr><td>矮种马* (Horse, pony)</td><td>–</td></tr>
 	<tr><td>蝮蛇* (Snake, viper)</td><td>–</td></tr>
-	<tr><th colspan="2">2环</th></tr>
+	<tr><th colSpan="2">2环</th></tr>
 	<tr><td>巨蚁 (工蚁)* (Ant, giant – worker)</td><td>–</td></tr>
 	<tr><td>元素 (小型) (Elemental, small)</td><td>元素</td></tr>
 	<tr><td>巨蜈蚣* (Giant centipede)</td><td>–</td></tr>
@@ -6532,7 +6532,7 @@
 	<tr><td>章鱼* (Octopus)</td><td>–</td></tr>
 	<tr><td>乌贼* (Squid)</td><td>–</td></tr>
 	<tr><td>狼* (Wolf)</td><td>–</td></tr>
-	<tr><th colspan="2">3环</th></tr>
+	<tr><th colSpan="2">3环</th></tr>
 	<tr><td>巨蚁 (兵蚁)* (Ant, giant – soldier)</td><td>–</td></tr>
 	<tr><td>大猩猩* (Ape)</td><td>–</td></tr>
 	<tr><td>原牛* (Herd animal, aurochs)</td><td>–</td></tr>
@@ -6548,7 +6548,7 @@
 	<tr><td>王蜥* (Monitor lizard)</td><td>–</td></tr>
 	<tr><td>鲨鱼* (Shark)</td><td>–</td></tr>
 	<tr><td>狼獾* (Wolverine)</td><td>–</td></tr>
-	<tr><th colspan="2">4环</th></tr>
+	<tr><th colSpan="2">4环</th></tr>
 	<tr><td>巨蚁 (公蚁)* (Ant, giant – drone)</td><td>–</td></tr>
 	<tr><td>野牛* (Herd animal, bison)</td><td>–</td></tr>
 	<tr><td>恐爪龙* (Dinosaur, deinonychus)</td><td>–</td></tr>
@@ -6565,7 +6565,7 @@
 	<tr><td>魔蝠 (任意) (Mephit, any)</td><td>元素</td></tr>
 	<tr><td>翼龙* (Dinosaur, pteranodon)</td><td>–</td></tr>
 	<tr><td>犀牛* (Rhinoceros)</td><td>–</td></tr>
-	<tr><th colspan="2">5环</th></tr>
+	<tr><th colSpan="2">5环</th></tr>
 	<tr><td>甲龙* (Dinosaur, ankylosaurus)</td><td>–</td></tr>
 	<tr><td>巴布魔 (Demon, babau)</td><td>混乱, 邪恶</td></tr>
 	<tr><td>胡须魔 (Bearded devil)</td><td>邪恶, 秩序</td></tr>
@@ -6578,7 +6578,7 @@
 	<tr><td>火蜥蜴 (Salamander)</td><td>邪恶</td></tr>
 	<tr><td>披毛犀* (Woolly rhinoceros)</td><td>–</td></tr>
 	<tr><td>锡尔族 (Xill)</td><td>邪恶, 秩序</td></tr>
-	<tr><th colspan="2">6环</th></tr>
+	<tr><th colSpan="2">6环</th></tr>
 	<tr><td>凶暴熊* (Dire bear)</td><td>–</td></tr>
 	<tr><td>凶暴虎* (Dire tiger)</td><td>–</td></tr>
 	<tr><td>薄片龙* (Dinosaur, elasmosaurus)</td><td>–</td></tr>
@@ -6591,7 +6591,7 @@
 	<tr><td>影魔 (Shadow demon)</td><td>混乱, 邪恶</td></tr>
 	<tr><td>魅魔 (Demon, succubus)</td><td>混乱, 邪恶</td></tr>
 	<tr><td>三角龙* (Dinosaur, triceratops)</td><td>–</td></tr>
-	<tr><th colspan="2">7环</th></tr>
+	<tr><th colSpan="2">7环</th></tr>
 	<tr><td>狩魔蛛 (Bebelith)</td><td>混乱, 邪恶</td></tr>
 	<tr><td>骨魔 (Bone devil)</td><td>邪恶, 秩序</td></tr>
 	<tr><td>腕龙* (Dinosaur, brachiosaurus)</td><td>–</td></tr>
@@ -6603,18 +6603,18 @@
 	<tr><td>大鹏* (Roc)</td><td>–</td></tr>
 	<tr><td>暴龙* (Dinosaur, tyrannosaurus)</td><td>–</td></tr>
 	<tr><td>鹫魔 (Demon, vrock)</td><td>混乱, 邪恶</td></tr>
-	<tr><th colspan="2">8环</th></tr>
+	<tr><th colSpan="2">8环</th></tr>
 	<tr><td>尖刺魔 (Barbed devil)</td><td>邪恶, 秩序</td></tr>
 	<tr><td>元素 (长老) (Elemental, elder)</td><td>元素</td></tr>
 	<tr><td>狂战魔 (Demon, hezrou)</td><td>混乱, 邪恶</td></tr>
-	<tr><th colspan="2">9环</th></tr>
+	<tr><th colSpan="2">9环</th></tr>
 	<tr><td>星界神使 (Angel, astral deva)</td><td>善良</td></tr>
 	<tr><td>迦勒天 (Ghaele azata)</td><td>混乱, 善良</td></tr>
 	<tr><td>迷诱魔 (Demon, glabrezu)</td><td>混乱, 邪恶</td></tr>
 	<tr><td>冰魔 (Ice devil)</td><td>邪恶, 秩序</td></tr>
 	<tr><td>判魂魔 (Demon, nalfeshnee)</td><td>混乱, 邪恶</td></tr>
 	<tr><td>号角神使 (Trumpet archon)</td><td>善良, 秩序</td></tr>
-	<tr><td colspan="2" style="white-space: normal; width: 1px">对于标记星号的生物, 若你的阵营为善良则带有天界模板 (celestial template), 若你的阵营为邪恶则带有炼狱模板 (fiendish template); 若你的阵营为中立, 则可以从上述模板中选择一种。</td></tr></table></div>
+	<tr><td colSpan="2" style="white-space: normal; width: 1px">对于标记星号的生物, 若你的阵营为善良则带有天界模板 (celestial template), 若你的阵营为邪恶则带有炼狱模板 (fiendish template); 若你的阵营为中立, 则可以从上述模板中选择一种。</td></tr></table></div>
 召唤怪物 II (Summon Monster II)
 学派              咒法系 (召唤)
 环位              反圣武士 2, 吟游诗人 2, 牧师/先知 2, 术士/法师 2, 召唤师 2, 女巫 2
@@ -6664,7 +6664,7 @@
 　　该法术可召唤出召唤自然盟友表格中1环列表内的一个生物。你可以选择要召唤的生物，而且每次施法时都可以改变选择。除非另有标注，表格中的所有生物均为绝对中立。
 　　当你使用召唤法术来召唤一个具有阵营或元素亚种的生物时，这个法术也会具此种类别。对于该法术所召唤出的不具有阵营亚种的生物，无论它们通常的阵营为何，都会具有与你相同的阵营。召唤这些生物会使得召唤法术的类别与你的阵营相符合。
 	<div class="inner"><table><tr><th>召唤生物</th><th>亚种</th></tr>
-	<tr><th colspan="2">1环</th></tr>
+	<tr><th colSpan="2">1环</th></tr>
 	<tr><td>凶暴鼠 (Dire rat)</td><td>–</td></tr>
 	<tr><td>犬 (Dog)</td><td>–</td></tr>
 	<tr><td>海豚 (Dolphin)</td><td>–</td></tr>
@@ -6676,7 +6676,7 @@
 	<tr><td>矮种马 (Horse, pony)</td><td>–</td></tr>
 	<tr><td>蚊蝠 (Stirge)</td><td>–</td></tr>
 	<tr><td>蝮蛇 (Snake, viper)</td><td>–</td></tr>
-	<tr><th colspan="2">2环</th></tr>
+	<tr><th colSpan="2">2环</th></tr>
 	<tr><td>巨蚁 (工蚁) (Ant, giant – worker)</td><td>–</td></tr>
 	<tr><td>元素 (小型) (Elemental, small)</td><td>元素</td></tr>
 	<tr><td>巨蛙 (Giant frog)</td><td>–</td></tr>
@@ -6687,7 +6687,7 @@
 	<tr><td>章鱼 (Octopus)</td><td>–</td></tr>
 	<tr><td>乌贼 (Squid)</td><td>–</td></tr>
 	<tr><td>狼 (Wolf)</td><td>–</td></tr>
-	<tr><th colspan="2">3环</th></tr>
+	<tr><th colSpan="2">3环</th></tr>
 	<tr><td>巨蚁 (兵蚁) (Ant, giant – soldier)</td><td>–</td></tr>
 	<tr><td>大猩猩 (Ape)</td><td>–</td></tr>
 	<tr><td>原牛 (Herd animal, aurochs)</td><td>–</td></tr>
@@ -6702,7 +6702,7 @@
 	<tr><td>王蜥 (Monitor lizard)</td><td>–</td></tr>
 	<tr><td>鲨鱼 (Shark)</td><td>–</td></tr>
 	<tr><td>狼獾 (Wolverine)</td><td>–</td></tr>
-	<tr><th colspan="2">4环</th></tr>
+	<tr><th colSpan="2">4环</th></tr>
 	<tr><td>巨蚁 (公蚁) (Ant, giant – drone)</td><td>–</td></tr>
 	<tr><td>野牛 (Herd animal, bison)</td><td>–</td></tr>
 	<tr><td>恐爪龙 (Dinosaur, deinonychus)</td><td>–</td></tr>
@@ -6722,7 +6722,7 @@
 	<tr><td>犀牛 (Rhinoceros)</td><td>–</td></tr>
 	<tr><td>萨特羊人 (Satyr)</td><td>–</td></tr>
 	<tr><td>虎 (Tiger)</td><td>–</td></tr>
-	<tr><th colspan="2">5环</th></tr>
+	<tr><th colSpan="2">5环</th></tr>
 	<tr><td>甲龙 (Dinosaur, ankylosaurus)</td><td>–</td></tr>
 	<tr><td>独眼巨人 (Cyclops)</td><td>–</td></tr>
 	<tr><td>凶暴狮 (Dire lion)</td><td>–</td></tr>
@@ -6733,7 +6733,7 @@
 	<tr><td>四臂猩猩 (Girallon)</td><td>–</td></tr>
 	<tr><td>蝎狮 (Manticore)</td><td>–</td></tr>
 	<tr><td>披毛犀 (Woolly rhinoceros)</td><td>–</td></tr>
-	<tr><th colspan="2">6环</th></tr>
+	<tr><th colSpan="2">6环</th></tr>
 	<tr><td>鲨蜥兽 (Bulette)</td><td>–</td></tr>
 	<tr><td>凶暴熊 (Dire bear)</td><td>–</td></tr>
 	<tr><td>凶暴虎 (Dire tiger)</td><td>–</td></tr>
@@ -6745,7 +6745,7 @@
 	<tr><td>剑龙 (Dinosaur, stegosaurus)</td><td>–</td></tr>
 	<tr><td>石巨人 (Stone giant)</td><td>土</td></tr>
 	<tr><td>三角龙 (Dinosaur, triceratops)</td><td>–</td></tr>
-	<tr><th colspan="2">7环</th></tr>
+	<tr><th colSpan="2">7环</th></tr>
 	<tr><td>腕龙 (Dinosaur, brachiosaurus)</td><td>–</td></tr>
 	<tr><td>凶暴鳄鱼 (Dire crocodile)</td><td>–</td></tr>
 	<tr><td>凶暴鲨 (Dire shark)</td><td>–</td></tr>
@@ -6756,11 +6756,11 @@
 	<tr><td>乳齿象 (Elephant, mastadon)</td><td>–</td></tr>
 	<tr><td>大鹏 (Roc)</td><td>–</td></tr>
 	<tr><td>暴龙 (Dinosaur, tyrannosaurus)</td><td>–</td></tr>
-	<tr><th colspan="2">8环</th></tr>
+	<tr><th colSpan="2">8环</th></tr>
 	<tr><td>云巨人 (Cloud giant)</td><td>气</td></tr>
 	<tr><td>气系元素 (长老) (Elemental, elder)</td><td>元素</td></tr>
 	<tr><td>紫虫 (Purple worm)</td><td>–</td></tr>
-	<tr><th colspan="2">9环</th></tr>
+	<tr><th colSpan="2">9环</th></tr>
 	<tr><td>皮克精 (Pixie, 有迷舞与昏睡箭)</td><td>–</td></tr>
 	<tr><td>风暴巨人 (Storm giant)</td><td>–</td></tr></table></div>
 召唤自然盟友 II (Summon Nature's Ally II)
