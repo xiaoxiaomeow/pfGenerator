@@ -12,7 +12,7 @@ public class Deploy {
 
     public static void generateIndex () throws IOException {
         File source = new File("feats/translated");
-        File target = new File("../../pathfinder/featsIndex.js");
+        File target = new File("../../pathfinder/static/script/featsIndex.js");
 
         JSONObject feats = new JSONObject();
         List<JSONObject> featsArray = new ArrayList<>();
@@ -76,12 +76,12 @@ public class Deploy {
             featsArray.removeAll(toRemove);
         }
 
-        Tools.writeFile(target, "var featDict = " + feats.toString(4) + ";\nvar featTree = " + base.toJsonArray().toString(4) + ";");
+        Tools.writeFile(target, "export const featDict = " + feats.toString(4) + ";\nexport const featTree = " + base.toJsonArray().toString(4) + ";");
     }
 
     public static void copyFiles () throws IOException {
         File source = new File("feats/translated");
-        File target = new File("../../pathfinder/feats");
+        File target = new File("../../pathfinder/static/feats");
         Tools.clearPath(target);
         target.mkdirs();
 

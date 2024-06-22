@@ -44,6 +44,10 @@
         "key": "Absorb Toxicity"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Absorbing%20Barrier",
+        "key": "Absorbing Barrier"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Absorbing%20Inhalation",
         "key": "Absorbing Inhalation"
     },
@@ -62,6 +66,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Abundant%20Ammunition",
         "key": "Abundant Ammunition"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Abyssal%20Vermin",
+        "key": "Abyssal Vermin"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Accelerate%20Poison",
@@ -168,6 +176,10 @@
         "key": "Agonize"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Agonizing%20Rebuke",
+        "key": "Agonizing Rebuke"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Aid",
         "key": "Aid"
     },
@@ -240,6 +252,10 @@
         "key": "Allegro"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Alleviate%20Addiction",
+        "key": "Alleviate Addiction"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Alleviate%20Corruption",
         "key": "Alleviate Corruption"
     },
@@ -280,12 +296,24 @@
         "key": "Alter Self"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Alter%20Summoned%20Monster",
+        "key": "Alter Summoned Monster"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Alter%20Winds",
         "key": "Alter Winds"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Amnesia",
+        "key": "Amnesia"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Amplify%20Elixir",
         "key": "Amplify Elixir"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Amplify%20Stench",
+        "key": "Amplify Stench"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Analyze%20Aura",
@@ -306,6 +334,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ancestral%20Memory",
         "key": "Ancestral Memory"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ancestral%20Regression",
+        "key": "Ancestral Regression"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Anchored%20Step",
@@ -428,6 +460,10 @@
         "key": "Antiplant Shell"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Anti-Summoning%20Shield",
+        "key": "Anti-Summoning Shield"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Antitech%20Field",
         "key": "Antitech Field"
     },
@@ -454,6 +490,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Aphasia",
         "key": "Aphasia"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Apparent%20Master",
+        "key": "Apparent Master"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Apparent%20Treachery",
@@ -512,6 +552,10 @@
         "key": "Arcana Theft"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Arcane%20Cannon",
+        "key": "Arcane Cannon"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Arcane%20Concordance",
         "key": "Arcane Concordance"
     },
@@ -536,6 +580,10 @@
         "key": "Arcane Pocket"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Arcane%20Reinforcement",
+        "key": "Arcane Reinforcement"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Arcane%20Sight",
         "key": "Arcane Sight"
     },
@@ -554,6 +602,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ardor%27s%20Onslaught",
         "key": "Ardor's Onslaught"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Arid%20Refuge",
+        "key": "Arid Refuge"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Armor%20of%20Darkness",
+        "key": "Armor of Darkness"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Army%20Across%20Time",
@@ -584,8 +640,16 @@
         "key": "Artificer's Curse"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ascension",
+        "key": "Ascension"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ash%20Storm",
         "key": "Ash Storm"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ashen%20Path",
+        "key": "Ashen Path"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Aspect%20of%20the%20Bear",
@@ -610,6 +674,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Assume%20Appearance",
         "key": "Assume Appearance"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Assume%20Appearance,%20Greater",
+        "key": "Assume Appearance, Greater"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Assumed%20Likeness",
+        "key": "Assumed Likeness"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Astral%20Projection",
@@ -652,6 +724,10 @@
         "key": "Aura Alteration"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Aura%20of%20Cannibalism",
+        "key": "Aura of Cannibalism"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Aura%20of%20Distraction",
         "key": "Aura of Distraction"
     },
@@ -682,6 +758,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Aversion",
         "key": "Aversion"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Awaken",
+        "key": "Awaken"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Awaken%20Construct",
+        "key": "Awaken Construct"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Awaken%20the%20Devoured",
@@ -748,6 +832,10 @@
         "key": "Bard's Escape"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Barghest%20Feast",
+        "key": "Barghest Feast"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Barkskin",
         "key": "Barkskin"
     },
@@ -778,6 +866,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Beacon%20of%20Luck",
         "key": "Beacon of Luck"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Beanstalk",
+        "key": "Beanstalk"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bear%27s%20Endurance",
@@ -924,8 +1016,16 @@
         "key": "Black Spot"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Black%20Sword%20of%20War",
+        "key": "Black Sword of War"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Black%20Tentacles",
         "key": "Black Tentacles"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blacklight",
+        "key": "Blacklight"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blade%20Barrier",
@@ -950,6 +1050,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blade%20Snare",
         "key": "Blade Snare"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blade%20Tutor%27s%20Spirit",
+        "key": "Blade Tutor's Spirit"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bladed%20Dash",
@@ -992,12 +1096,28 @@
         "key": "Bleed for your Master"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bleed%20Glory",
+        "key": "Bleed Glory"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bleeding%20Strike",
+        "key": "Bleeding Strike"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blend",
         "key": "Blend"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blend%20with%20Surroundings",
+        "key": "Blend with Surroundings"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bless",
         "key": "Bless"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bless%20Army",
+        "key": "Bless Army"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bless%20Water",
@@ -1048,6 +1168,10 @@
         "key": "Blight"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blightburn%20Weapon",
+        "key": "Blightburn Weapon"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blinding%20Ray",
         "key": "Blinding Ray"
     },
@@ -1076,6 +1200,10 @@
         "key": "Blood Biography"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Blaze",
+        "key": "Blood Blaze"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Boil",
         "key": "Blood Boil"
     },
@@ -1092,12 +1220,24 @@
         "key": "Blood Mist"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Money",
+        "key": "Blood Money"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20of%20the%20Martyr",
+        "key": "Blood of the Martyr"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Rage",
         "key": "Blood Rage"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Salvation",
         "key": "Blood Salvation"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Scent",
+        "key": "Blood Scent"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Sentinel",
@@ -1108,12 +1248,28 @@
         "key": "Blood Song"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Tentacles",
+        "key": "Blood Tentacles"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Ties",
+        "key": "Blood Ties"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Transcription",
+        "key": "Blood Transcription"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bloodbath",
         "key": "Bloodbath"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bloodhound",
         "key": "Bloodhound"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bloodstone%20Mirror",
+        "key": "Bloodstone Mirror"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bloodsworn%20Retribution",
@@ -1126,6 +1282,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bloody%20Claws",
         "key": "Bloody Claws"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bloody%20Tears%20and%20Jagged%20Smile",
+        "key": "Bloody Tears and Jagged Smile"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blot",
@@ -1152,6 +1312,14 @@
         "key": "Boiling Blood"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bolt%20of%20Glory",
+        "key": "Bolt of Glory"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bolts%20of%20Bedevilment",
+        "key": "Bolts of Bedevilment"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bomber%27s%20Eye",
         "key": "Bomber's Eye"
     },
@@ -1176,12 +1344,20 @@
         "key": "Book Ward"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Borrow%20Corruption",
+        "key": "Borrow Corruption"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Borrow%20Fortune",
         "key": "Borrow Fortune"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Borrow%20Skill",
         "key": "Borrow Skill"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Borrowed%20Time",
+        "key": "Borrowed Time"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bouncing%20Bomb%20Admixture",
@@ -1232,12 +1408,24 @@
         "key": "Break Enchantment"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Break,%20Greater",
+        "key": "Break, Greater"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Breath%20of%20Life",
         "key": "Breath of Life"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Breeze",
+        "key": "Breeze"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Brightest%20Light",
         "key": "Brightest Light"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Brightest%20Night",
+        "key": "Brightest Night"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Brilliant%20Inspiration",
@@ -1352,6 +1540,14 @@
         "key": "Burst of Speed"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Burst%20with%20Light",
+        "key": "Burst with Light"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Business%20Booms",
+        "key": "Business Booms"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cackling%20Skull",
         "key": "Cackling Skull"
     },
@@ -1440,6 +1636,10 @@
         "key": "Campfire Wall"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Canopic%20Conversion",
+        "key": "Canopic Conversion"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cape%20of%20Wasps",
         "key": "Cape of Wasps"
     },
@@ -1520,6 +1720,10 @@
         "key": "Celestial Healing, Greater"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ceremony",
+        "key": "Ceremony"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Certain%20Grip",
         "key": "Certain Grip"
     },
@@ -1542,6 +1746,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Challenge%20Evil",
         "key": "Challenge Evil"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Chameleon%20Scales",
+        "key": "Chameleon Scales"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Chameleon%20Stride",
@@ -1604,8 +1812,16 @@
         "key": "Charm Person, Mass"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Charnel%20House",
+        "key": "Charnel House"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Charon%27s%20Dispensation",
         "key": "Charon's Dispensation"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Chastise",
+        "key": "Chastise"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cheetah%27s%20Sprint",
@@ -1634,6 +1850,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Claim%20Identity",
         "key": "Claim Identity"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Claim%20Identity,%20Greater",
+        "key": "Claim Identity, Greater"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Clairaudience/Clairvoyance",
@@ -1682,6 +1902,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cloak%20of%20Dreams",
         "key": "Cloak of Dreams"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cloak%20of%20Secrets",
+        "key": "Cloak of Secrets"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cloak%20of%20Shade",
@@ -1872,6 +2096,30 @@
         "key": "Consecrate"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Constricting%20Coils",
+        "key": "Constricting Coils"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Contact%20Entity%20I",
+        "key": "Contact Entity I"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Contact%20Entity%20II",
+        "key": "Contact Entity II"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Contact%20Entity%20III",
+        "key": "Contact Entity III"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Contact%20Entity%20IV",
+        "key": "Contact Entity IV"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Contact%20High",
+        "key": "Contact High"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Contact%20Nalfeshnee",
         "key": "Contact Nalfeshnee"
     },
@@ -1940,6 +2188,10 @@
         "key": "Control Undead"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Control%20Vermin",
+        "key": "Control Vermin"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Control%20Water",
         "key": "Control Water"
     },
@@ -2000,6 +2252,10 @@
         "key": "Covetous Urge"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Coward%27s%20Cowl",
+        "key": "Coward's Cowl"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Coward%27s%20Lament",
         "key": "Coward's Lament"
     },
@@ -2032,6 +2288,10 @@
         "key": "Create Demiplane, Lesser"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Create%20Drug",
+        "key": "Create Drug"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Create%20Food%20and%20Water",
         "key": "Create Food and Water"
     },
@@ -2044,8 +2304,20 @@
         "key": "Create Holds"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Create%20Mindscape",
+        "key": "Create Mindscape"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Create%20Mindscape,%20Greater",
+        "key": "Create Mindscape, Greater"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Create%20Pit",
         "key": "Create Pit"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Create%20Soul%20Gem",
+        "key": "Create Soul Gem"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Create%20Treasure%20Map",
@@ -2054,6 +2326,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Create%20Undead",
         "key": "Create Undead"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Create%20Variant%20Mummy",
+        "key": "Create Variant Mummy"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Create%20Water",
@@ -2082,6 +2358,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Crimson%20Confession",
         "key": "Crimson Confession"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Crown%20of%20Glory",
+        "key": "Crown of Glory"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cruel%20Jaunt",
@@ -2168,8 +2448,20 @@
         "key": "Curse of Dragonflies"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20of%20Fell%20Seasons",
+        "key": "Curse of Fell Seasons"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20of%20Keeping",
         "key": "Curse of Keeping"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20of%20Magic%20Negation",
+        "key": "Curse of Magic Negation"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20of%20Night",
+        "key": "Curse of Night"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20of%20the%20Outcast",
@@ -2178,6 +2470,22 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20of%20Unexpected%20Death",
         "key": "Curse of Unexpected Death"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20Terrain",
+        "key": "Curse Terrain"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20Terrain,%20Greater",
+        "key": "Curse Terrain, Greater"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20Terrain,%20Lesser",
+        "key": "Curse Terrain, Lesser"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20Terrain,%20Supreme",
+        "key": "Curse Terrain, Supreme"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20Water",
@@ -2200,6 +2508,10 @@
         "key": "Cushioning Bands"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cyclic%20Reincarnation",
+        "key": "Cyclic Reincarnation"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Daemon%20Ward",
         "key": "Daemon Ward"
     },
@@ -2214,6 +2526,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Damnation",
         "key": "Damnation"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Damnation%20of%20Memory",
+        "key": "Damnation of Memory"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Damnation%20Stride",
@@ -2246,6 +2562,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dark%20Whispers",
         "key": "Dark Whispers"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dark-Light",
+        "key": "Dark-Light"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Darkness",
@@ -2352,8 +2672,16 @@
         "key": "Death Knell Aura, Greater"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Death%20Pact",
+        "key": "Death Pact"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Death%20Ward",
         "key": "Death Ward"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Deathless",
+        "key": "Deathless"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Deathwatch",
@@ -2362,6 +2690,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Deathwine",
         "key": "Deathwine"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Debilitating%20Pain",
+        "key": "Debilitating Pain"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Debilitating%20Pain,%20Mass",
+        "key": "Debilitating Pain, Mass"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Debilitating%20Portent",
@@ -2436,6 +2772,10 @@
         "key": "Deft Digits"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Deivon%27s%20Parry",
+        "key": "Deivon's Parry"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Deja%20Vu",
         "key": "Deja Vu"
     },
@@ -2488,6 +2828,10 @@
         "key": "Demanding Message, Mass"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Demon%20Dream",
+        "key": "Demon Dream"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Denounce",
         "key": "Denounce"
     },
@@ -2536,12 +2880,20 @@
         "key": "Detect Charm"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Demon",
+        "key": "Detect Demon"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Desires",
         "key": "Detect Desires"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Evil",
         "key": "Detect Evil"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Fiendish%20Presence",
+        "key": "Detect Fiendish Presence"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Good",
@@ -2630,6 +2982,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Diagnose%20Disease",
         "key": "Diagnose Disease"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Diamond%20Spray",
+        "key": "Diamond Spray"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dictum",
@@ -2864,6 +3220,10 @@
         "key": "Draconic Ally"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Draconic%20Malice",
+        "key": "Draconic Malice"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Draconic%20Reservoir",
         "key": "Draconic Reservoir"
     },
@@ -2882,6 +3242,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dragonvoice",
         "key": "Dragonvoice"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Drain%20Construct",
+        "key": "Drain Construct"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Drain%20Poison",
@@ -2924,8 +3288,24 @@
         "key": "Dream Shield"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dream%20Travel",
+        "key": "Dream Travel"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dream%20Voyage",
+        "key": "Dream Voyage"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Drench",
+        "key": "Drench"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dress%20Corpse",
         "key": "Dress Corpse"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Drunkard%27s%20Breath",
+        "key": "Drunkard's Breath"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dungeonsight",
@@ -2942,6 +3322,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dust%20of%20Twilight",
         "key": "Dust of Twilight"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dust%20Ward",
+        "key": "Dust Ward"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dwarven%20Veil",
@@ -2980,12 +3364,28 @@
         "key": "Ear-Piercing Scream"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ears%20of%20the%20City",
+        "key": "Ears of the City"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Earsend",
+        "key": "Earsend"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Earth%20Glide",
+        "key": "Earth Glide"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Earth%20Tremor",
         "key": "Earth Tremor"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Earthquake",
         "key": "Earthquake"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Echean%27s%20Excellent%20Enclosure",
+        "key": "Echean's Excellent Enclosure"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Echo",
@@ -3044,6 +3444,14 @@
         "key": "Eldritch Conduit, Greater"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Eldritch%20Fever",
+        "key": "Eldritch Fever"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Elemental%20Assessor",
+        "key": "Elemental Assessor"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Elemental%20Aura",
         "key": "Elemental Aura"
     },
@@ -3062,6 +3470,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Elemental%20Body%20IV",
         "key": "Elemental Body IV"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Elemental%20Bombardment",
+        "key": "Elemental Bombardment"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Elemental%20Mastery",
@@ -3140,12 +3552,24 @@
         "key": "Enemy Insight"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Enemy%27s%20Heart",
+        "key": "Enemy's Heart"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Energy%20Drain",
         "key": "Energy Drain"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Energy%20Hack",
         "key": "Energy Hack"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Energy%20Siege%20Shot",
+        "key": "Energy Siege Shot"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Energy%20Siege%20Shot,%20Greater",
+        "key": "Energy Siege Shot, Greater"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Enervation",
@@ -3166,6 +3590,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Enlarge%20Person,%20Mass",
         "key": "Enlarge Person, Mass"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Enlarge%20Tail",
+        "key": "Enlarge Tail"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Enlightened%20Step",
@@ -3198,6 +3626,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Entice%20Fey,%20Lesser",
         "key": "Entice Fey, Lesser"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Enticing%20Adulation",
+        "key": "Enticing Adulation"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Entomb",
@@ -3424,6 +3856,14 @@
         "key": "False Life, Greater"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=False%20Resurrection",
+        "key": "False Resurrection"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=False%20Resurrection,%20Greater",
+        "key": "False Resurrection, Greater"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=False%20Vision",
         "key": "False Vision"
     },
@@ -3494,6 +3934,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fester,%20Mass",
         "key": "Fester, Mass"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fey%20Blight",
+        "key": "Fey Blight"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fey%20Boon",
+        "key": "Fey Boon"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fey%20Form%20I",
@@ -3664,6 +4112,10 @@
         "key": "Flames of the Faithful"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Flaming%20Aura",
+        "key": "Flaming Aura"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Flaming%20Sphere",
         "key": "Flaming Sphere"
     },
@@ -3740,6 +4192,10 @@
         "key": "Fleshworm Infestation"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fleshy%20Facade",
+        "key": "Fleshy Facade"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Flexible%20Fury",
         "key": "Flexible Fury"
     },
@@ -3796,6 +4252,18 @@
         "key": "Fool's Forbiddance"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fool%27s%20Gold%20(AA)",
+        "key": "Fool's Gold (AA)"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fool%27s%20Gold%20(VC)",
+        "key": "Fool's Gold (VC)"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fool%27s%20Teleport",
+        "key": "Fool's Teleport"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Forbid%20Action",
         "key": "Forbid Action"
     },
@@ -3828,6 +4296,10 @@
         "key": "Forcecage"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Forced%20Mutation",
+        "key": "Forced Mutation"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Forced%20Quiet",
         "key": "Forced Quiet"
     },
@@ -3852,6 +4324,10 @@
         "key": "Forest Friend"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Forest%27s%20Sense",
+        "key": "Forest's Sense"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Foretell%20Failure",
         "key": "Foretell Failure"
     },
@@ -3866,6 +4342,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Form%20of%20the%20Alien%20Dragon%20II",
         "key": "Form of the Alien Dragon II"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Form%20of%20the%20Alien%20Dragon%20III",
+        "key": "Form of the Alien Dragon III"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Form%20of%20the%20Dragon%20I",
@@ -3890,6 +4370,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Form%20of%20the%20Exotic%20Dragon%20III",
         "key": "Form of the Exotic Dragon III"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fortune%27s%20Path",
+        "key": "Fortune's Path"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Foster%20Hatred",
@@ -3954,6 +4438,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Frostbite",
         "key": "Frostbite"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Frosthammer",
+        "key": "Frosthammer"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Frosty%20Aura",
+        "key": "Frosty Aura"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Frozen%20Note",
@@ -4024,8 +4516,16 @@
         "key": "Geb's Hammer"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Genesis",
+        "key": "Genesis"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Geniekind",
         "key": "Geniekind"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Genius%20Avaricious",
+        "key": "Genius Avaricious"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Gentle%20Breeze",
@@ -4056,6 +4556,10 @@
         "key": "Ghost Sound"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ghost%20Whip",
+        "key": "Ghost Whip"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ghost%20Wolf",
         "key": "Ghost Wolf"
     },
@@ -4070,6 +4574,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ghostly%20Disguise",
         "key": "Ghostly Disguise"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ghoul%20Hunger",
+        "key": "Ghoul Hunger"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ghoul%20Touch",
@@ -4088,6 +4596,10 @@
         "key": "Giant Vermin"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Gift%20of%20the%20Deep",
+        "key": "Gift of the Deep"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Gilded%20Whispers",
         "key": "Gilded Whispers"
     },
@@ -4102,6 +4614,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Glide",
         "key": "Glide"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Glimpse%20of%20the%20Akashic",
+        "key": "Glimpse of the Akashic"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Glimpse%20of%20Truth",
@@ -4190,6 +4706,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Grasping%20Tentacles",
         "key": "Grasping Tentacles"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Grasping%20Vine",
+        "key": "Grasping Vine"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Grave%20Words",
@@ -4296,6 +4816,10 @@
         "key": "Hairline Fractures"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Half-Blood%20Extraction",
+        "key": "Half-Blood Extraction"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Halfling%20Vengeance",
         "key": "Halfling Vengeance"
     },
@@ -4336,6 +4860,10 @@
         "key": "Hanspur's Flotsam Vessel"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hardening",
+        "key": "Hardening"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Harm",
         "key": "Harm"
     },
@@ -4344,8 +4872,16 @@
         "key": "Harmless Form"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Harrowing",
+        "key": "Harrowing"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Harrowing,%20Greater",
         "key": "Harrowing, Greater"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Harvest%20Knowledge",
+        "key": "Harvest Knowledge"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Harvest%20Season",
@@ -4448,6 +4984,10 @@
         "key": "Heightened Reflexes"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hellfire%20Ray",
+        "key": "Hellfire Ray"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hellmouth%20Lash",
         "key": "Hellmouth Lash"
     },
@@ -4456,12 +4996,28 @@
         "key": "Helping Hand"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Heretic%27s%20Tongue",
+        "key": "Heretic's Tongue"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hermean%20Potential",
+        "key": "Hermean Potential"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Heroes%27%20Feast",
         "key": "Heroes' Feast"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Heroic%20Finale",
         "key": "Heroic Finale"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Heroic%20Fortune",
+        "key": "Heroic Fortune"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Heroic%20Fortune,%20Mass",
+        "key": "Heroic Fortune, Mass"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Heroic%20Invocation",
@@ -4534,6 +5090,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hide%20from%20Undead",
         "key": "Hide from Undead"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hide%20from%20Undead,%20Greater",
+        "key": "Hide from Undead, Greater"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hide%20Weapon",
@@ -4652,6 +5212,10 @@
         "key": "Horrific Doubles"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Horrifying%20Visage",
+        "key": "Horrifying Visage"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hostile%20Juxtaposition",
         "key": "Hostile Juxtaposition"
     },
@@ -4674,6 +5238,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Human%20Potential,%20Mass",
         "key": "Human Potential, Mass"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hunger%20for%20Flesh",
+        "key": "Hunger for Flesh"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hunger%20for%20Flesh,%20Mass",
+        "key": "Hunger for Flesh, Mass"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hungry%20Darkness",
@@ -4710,6 +5282,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Huntmaster%27s%20Spear",
         "key": "Huntmaster's Spear"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hurricane%20Blast",
+        "key": "Hurricane Blast"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hydraulic%20Push",
@@ -4808,6 +5384,10 @@
         "key": "Identify"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ignoble%20Form",
+        "key": "Ignoble Form"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ill%20Omen",
         "key": "Ill Omen"
     },
@@ -4822,6 +5402,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Illusion%20of%20Treachery,%20Greater",
         "key": "Illusion of Treachery, Greater"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Illusory%20Crowd",
+        "key": "Illusory Crowd"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Illusory%20Hoard",
@@ -4844,8 +5428,16 @@
         "key": "Illusory Wall"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Imbue%20Army%20Special%20Ability",
+        "key": "Imbue Army Special Ability"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Imbue%20Hex",
         "key": "Imbue Hex"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Imbue%20With%20Addiction",
+        "key": "Imbue With Addiction"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Imbue%20with%20Aura",
@@ -4856,8 +5448,20 @@
         "key": "Imbue with Elemental Might"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Imbue%20with%20Flight",
+        "key": "Imbue with Flight"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Imbue%20with%20Spell%20Ability",
         "key": "Imbue with Spell Ability"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Impart%20Mind",
+        "key": "Impart Mind"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Impede%20Speech",
+        "key": "Impede Speech"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Impenetrable%20Veil",
@@ -4888,8 +5492,16 @@
         "key": "Imprisonment"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Improve%20Trap",
+        "key": "Improve Trap"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Incendiary%20Cloud",
         "key": "Incendiary Cloud"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Incendiary%20Runes",
+        "key": "Incendiary Runes"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Incessant%20Buzzing",
@@ -4952,6 +5564,18 @@
         "key": "Inflict Serious Wounds, Mass"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Influence%20Wild%20Magic",
+        "key": "Influence Wild Magic"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Infuse%20Decay",
+        "key": "Infuse Decay"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Infuse%20Effigy",
+        "key": "Infuse Effigy"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Infuse%20Robot",
         "key": "Infuse Robot"
     },
@@ -4962,6 +5586,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Inheritor%27s%20Smite",
         "key": "Inheritor's Smite"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Inhibiting%20Patterns",
+        "key": "Inhibiting Patterns"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Inner%20Focus",
@@ -4984,6 +5612,10 @@
         "key": "Insect Plague"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Insect%20Scouts",
+        "key": "Insect Scouts"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Insect%20Spies",
         "key": "Insect Spies"
     },
@@ -4998,6 +5630,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Instant%20Armor",
         "key": "Instant Armor"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Instant%20Clot",
+        "key": "Instant Clot"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Instant%20Enemy",
@@ -5026,6 +5662,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Instant%20Weapon",
         "key": "Instant Weapon"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Instigate%20Psychic%20Duel",
+        "key": "Instigate Psychic Duel"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Instrument%20of%20Agony",
@@ -5156,8 +5796,16 @@
         "key": "Ironbloom Sprouts"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ironskin",
+        "key": "Ironskin"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ironwood",
         "key": "Ironwood"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Irradiate",
+        "key": "Irradiate"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Irregular%20Size",
@@ -5188,6 +5836,10 @@
         "key": "Janni's Jaunt"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Jatembe%27s%20Ire",
+        "key": "Jatembe's Ire"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Jealous%20Rage",
         "key": "Jealous Rage"
     },
@@ -5198,6 +5850,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Jitterbugs",
         "key": "Jitterbugs"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Jolt",
+        "key": "Jolt"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Jolting%20Portent",
@@ -5226,6 +5882,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Jury-Rig",
         "key": "Jury-Rig"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Kalistocrat%27s%20Nightmare",
+        "key": "Kalistocrat's Nightmare"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Karmic%20Blessing",
@@ -5344,6 +6004,10 @@
         "key": "Lead Blades"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lead%20Plating",
+        "key": "Lead Plating"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Leashed%20Shackles",
         "key": "Leashed Shackles"
     },
@@ -5352,12 +6016,20 @@
         "key": "Legend Lore"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Legendary%20Proportions",
+        "key": "Legendary Proportions"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lend%20Judgment",
         "key": "Lend Judgment"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lend%20Judgment,%20Greater",
         "key": "Lend Judgment, Greater"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lend%20Path",
+        "key": "Lend Path"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Leshy%20Swarm",
@@ -5436,6 +6108,10 @@
         "key": "Lighten Object, Mass"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lightfingers",
+        "key": "Lightfingers"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lightning%20Arc",
         "key": "Lightning Arc"
     },
@@ -5464,6 +6140,10 @@
         "key": "Limited Wish"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Limp%20Lash",
+        "key": "Limp Lash"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Line%20in%20the%20Sand",
         "key": "Line in the Sand"
     },
@@ -5482,6 +6162,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Liquefy",
         "key": "Liquefy"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lissalan%20Snake%20Sigil",
+        "key": "Lissalan Snake Sigil"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Litany%20of%20Admonition",
@@ -5530,6 +6214,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Litany%20of%20Sloth",
         "key": "Litany of Sloth"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Litany%20of%20the%20Red%20Crusader",
+        "key": "Litany of the Red Crusader"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Litany%20of%20Thunder",
@@ -5664,6 +6352,10 @@
         "key": "Mage Hand"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mage%27s%20Crawl%20Space",
+        "key": "Mage's Crawl Space"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mage%27s%20Decree",
         "key": "Mage's Decree"
     },
@@ -5698,6 +6390,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Magic%20Aura,%20Greater",
         "key": "Magic Aura, Greater"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Magic%20Boulder",
+        "key": "Magic Boulder"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Magic%20Circle%20against%20Chaos",
@@ -5738,6 +6434,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Magic%20Mouth",
         "key": "Magic Mouth"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Magic%20Siege%20Engine",
+        "key": "Magic Siege Engine"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Magic%20Siege%20Engine,%20Greater",
+        "key": "Magic Siege Engine, Greater"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Magic%20Stone",
@@ -5796,6 +6500,14 @@
         "key": "Make Whole, Greater"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Malediction",
+        "key": "Malediction"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Malediction%20(Hero%20Points)",
+        "key": "Malediction (Hero Points)"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Malfunction",
         "key": "Malfunction"
     },
@@ -5846,6 +6558,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mark%20of%20Spite",
         "key": "Mark of Spite"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mark%20of%20the%20Reptile%20God",
+        "key": "Mark of the Reptile God"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Marks%20Of%20Forbiddance",
@@ -5900,6 +6616,10 @@
         "key": "Masterwork Transformation"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Matchmaker",
+        "key": "Matchmaker"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mathematical%20Curse",
         "key": "Mathematical Curse"
     },
@@ -5910,6 +6630,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Maze",
         "key": "Maze"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Maze%20of%20Madness%20and%20Suffering",
+        "key": "Maze of Madness and Suffering"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Medusa%27s%20Bane",
@@ -5926,6 +6650,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Memory%20Lapse",
         "key": "Memory Lapse"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Memory%20of%20Function",
+        "key": "Memory of Function"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mending",
@@ -6208,6 +6936,10 @@
         "key": "Morning Sun"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mortal%20Terror",
+        "key": "Mortal Terror"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Motes%20of%20Dusk%20and%20Dawn",
         "key": "Motes of Dusk and Dawn"
     },
@@ -6258,6 +6990,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mydriatic%20Spontaneity,%20Mass",
         "key": "Mydriatic Spontaneity, Mass"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mythic%20Severance",
+        "key": "Mythic Severance"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Naga%20Shape%20I",
@@ -6348,6 +7084,10 @@
         "key": "Nex's Secret Workshop"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Night%20Blindness",
+        "key": "Night Blindness"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Night%20of%20Blades",
         "key": "Night of Blades"
     },
@@ -6394,6 +7134,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Oasis",
         "key": "Oasis"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Oath%20of%20Anonymity",
+        "key": "Oath of Anonymity"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Oath%20of%20Justice",
@@ -6628,6 +7372,10 @@
         "key": "Path of the Winds"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pattern%20Recognition",
+        "key": "Pattern Recognition"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Peace%20Bond",
         "key": "Peace Bond"
     },
@@ -6656,6 +7404,14 @@
         "key": "Pellet Blast"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Penumbra",
+        "key": "Penumbra"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Penumbral%20Disguise",
+        "key": "Penumbral Disguise"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Perceive%20Betrayal",
         "key": "Perceive Betrayal"
     },
@@ -6666,6 +7422,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Perfect%20Placement",
         "key": "Perfect Placement"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Permanency",
+        "key": "Permanency"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Permanent%20Hallucination",
@@ -6694,6 +7454,18 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Persuasive%20Goad",
         "key": "Persuasive Goad"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pesh%20Addiction",
+        "key": "Pesh Addiction"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pesh%20Addiction,%20Lesser",
+        "key": "Pesh Addiction, Lesser"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pesh%20Vigor",
+        "key": "Pesh Vigor"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pessimism",
@@ -6928,6 +7700,10 @@
         "key": "Play Instrument"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Plundered%20Power",
+        "key": "Plundered Power"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pocketful%20of%20Vipers",
         "key": "Pocketful of Vipers"
     },
@@ -7032,6 +7808,14 @@
         "key": "Prayer"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Prediction%20of%20Failure",
+        "key": "Prediction of Failure"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Prehensile%20Pilfer",
+        "key": "Prehensile Pilfer"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Preserve",
         "key": "Preserve"
     },
@@ -7068,12 +7852,20 @@
         "key": "Prismatic Wall"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Probe%20History",
+        "key": "Probe History"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Produce%20Flame",
         "key": "Produce Flame"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Profane%20Nimbus",
         "key": "Profane Nimbus"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Prognostication",
+        "key": "Prognostication"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Programmed%20Image",
@@ -7084,8 +7876,16 @@
         "key": "Project Image"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Project%20Weakness",
+        "key": "Project Weakness"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Prophetic%20Lore",
         "key": "Prophetic Lore"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Prosperous%20Room",
+        "key": "Prosperous Room"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Protection%20from%20Arrows",
@@ -7138,6 +7938,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Protection%20from%20Natural%20Attacks",
         "key": "Protection from Natural Attacks"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Protection%20from%20Outsiders",
+        "key": "Protection from Outsiders"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Protection%20from%20Spells",
@@ -7236,6 +8040,10 @@
         "key": "Purified Calling"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Purify%20Body",
+        "key": "Purify Body"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Purify%20Food%20and%20Drink",
         "key": "Purify Food and Drink"
     },
@@ -7256,6 +8064,10 @@
         "key": "Pyrotechnics"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Qlippoth%20Appearance",
+        "key": "Qlippoth Appearance"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Qualm",
         "key": "Qualm"
     },
@@ -7274,6 +8086,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Quick%20Change",
         "key": "Quick Change"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Quick%20Throwing",
+        "key": "Quick Throwing"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Quieting%20Weapons",
@@ -7392,6 +8208,10 @@
         "key": "Recentering Drone"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Recharge",
+        "key": "Recharge"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Recharge%20Innate%20Magic",
         "key": "Recharge Innate Magic"
     },
@@ -7402,6 +8222,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Recoil%20Fire",
         "key": "Recoil Fire"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Recorporeal%20Incarnation",
+        "key": "Recorporeal Incarnation"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Red%20Hand%20of%20the%20Killer",
@@ -7438,6 +8262,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Regenerate",
         "key": "Regenerate"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Reincarnate",
+        "key": "Reincarnate"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Reincarnate%20Spy",
+        "key": "Reincarnate Spy"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Reinforce%20Armaments",
@@ -7526,6 +8358,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Rend%20Body%20IV",
         "key": "Rend Body IV"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Renovation",
+        "key": "Renovation"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Repair%20Undead",
@@ -7664,6 +8500,10 @@
         "key": "Restore Eidolon, Lesser"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Restore%20Mythic%20Power",
+        "key": "Restore Mythic Power"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Resurgent%20Transformation",
         "key": "Resurgent Transformation"
     },
@@ -7708,6 +8548,10 @@
         "key": "Reveal Secrets"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Reveal%20True%20Shape",
+        "key": "Reveal True Shape"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Revealing%20Light",
         "key": "Revealing Light"
     },
@@ -7742,6 +8586,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Riding%20Possession",
         "key": "Riding Possession"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Rift%20of%20Ruin",
+        "key": "Rift of Ruin"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Righteous%20Blood",
+        "key": "Righteous Blood"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Righteous%20Condemnation",
@@ -7794,6 +8646,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Rock%20Whip",
         "key": "Rock Whip"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Root",
+        "key": "Root"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Rope%20Tornado",
@@ -7864,6 +8720,10 @@
         "key": "Sabotage Construct"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sacramental%20Seal",
+        "key": "Sacramental Seal"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sacred%20Bond",
         "key": "Sacred Bond"
     },
@@ -7874,6 +8734,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sacred%20Space",
         "key": "Sacred Space"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sacrifice",
+        "key": "Sacrifice"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sacrificial%20Oath",
@@ -7940,6 +8804,14 @@
         "key": "Sawtooth Terrain"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Scale%20Spikes",
+        "key": "Scale Spikes"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Scale%20Spikes,%20Greater",
+        "key": "Scale Spikes, Greater"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Scales%20of%20Deflection",
         "key": "Scales of Deflection"
     },
@@ -7962,6 +8834,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Scintillating%20Pattern",
         "key": "Scintillating Pattern"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Scintillating%20Wall",
+        "key": "Scintillating Wall"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Scoop",
+        "key": "Scoop"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Scorching%20Ash%20Form",
@@ -7990,6 +8870,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Screen",
         "key": "Screen"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Scribe%27s%20Binding",
+        "key": "Scribe's Binding"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Scripted%20Hallucination",
@@ -8160,12 +9044,20 @@
         "key": "Selective Invisibility"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Semblance%20of%20Flesh",
+        "key": "Semblance of Flesh"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sending",
         "key": "Sending"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sense%20Fear",
         "key": "Sense Fear"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sense%20Madness",
+        "key": "Sense Madness"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sense%20Spirit%20Magic",
@@ -8182,6 +9074,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sensory%20Overload",
         "key": "Sensory Overload"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sentry%20Skull",
+        "key": "Sentry Skull"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sepia%20Snake%20Sigil",
@@ -8210,6 +9106,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sessile%20Spirit",
         "key": "Sessile Spirit"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Severed%20Fate",
+        "key": "Severed Fate"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shackle",
@@ -8246,6 +9146,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shadow%20Conjuration,%20Greater",
         "key": "Shadow Conjuration, Greater"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shadow%20Dragon%20Aspect",
+        "key": "Shadow Dragon Aspect"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shadow%20Enchantment",
@@ -8352,6 +9256,10 @@
         "key": "Shard of Chaos"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Share%20Glory",
+        "key": "Share Glory"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Share%20Language",
         "key": "Share Language"
     },
@@ -8382,6 +9290,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shared%20Sacrifice",
         "key": "Shared Sacrifice"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shared%20Suffering",
+        "key": "Shared Suffering"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shared%20Training",
+        "key": "Shared Training"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shared%20Wrath",
@@ -8458,6 +9374,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shield%20Speech,%20Greater",
         "key": "Shield Speech, Greater"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shield%20the%20Banner",
+        "key": "Shield the Banner"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shifted%20Steps",
@@ -8568,6 +9488,10 @@
         "key": "Silk To Steel"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Silt%20Sphere",
+        "key": "Silt Sphere"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Silver%20Darts",
         "key": "Silver Darts"
     },
@@ -8620,6 +9544,10 @@
         "key": "Sky Swim"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Skyshroud",
+        "key": "Skyshroud"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Slave%20to%20Sin",
         "key": "Slave to Sin"
     },
@@ -8650,6 +9578,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Slipstream",
         "key": "Slipstream"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Slough",
+        "key": "Slough"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Slow",
@@ -8740,6 +9672,14 @@
         "key": "Soothing Mud"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Soothing%20Word",
+        "key": "Soothing Word"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sotto%20Voce",
+        "key": "Sotto Voce"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Soul%20Bind",
         "key": "Soul Bind"
     },
@@ -8750,6 +9690,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Soul%20Vault",
         "key": "Soul Vault"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Soulreaver",
+        "key": "Soulreaver"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Soulseeker",
@@ -8768,8 +9712,16 @@
         "key": "Source Severance"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sow%20Thought",
+        "key": "Sow Thought"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spark",
         "key": "Spark"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spawn%20Calling",
+        "key": "Spawn Calling"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spawn%20Ward",
@@ -8814,6 +9766,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spectral%20Hand",
         "key": "Spectral Hand"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spectral%20Saluqi",
+        "key": "Spectral Saluqi"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spectral%20Scout",
@@ -8892,12 +9848,24 @@
         "key": "Spellcurse"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spellscar",
+        "key": "Spellscar"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spellstaff",
         "key": "Spellstaff"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spellsteal",
+        "key": "Spellsteal"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sphere%20of%20Warding",
         "key": "Sphere of Warding"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spherescry",
+        "key": "Spherescry"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spider%20Climb",
@@ -8942,6 +9910,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spirit%20Call",
         "key": "Spirit Call"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spirit%20Share",
+        "key": "Spirit Share"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spirit-Bound%20Blade",
@@ -9024,6 +9996,10 @@
         "key": "Status"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Status,%20Greater",
+        "key": "Status, Greater"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Stave%20Off%20Corruption",
         "key": "Stave Off Corruption"
     },
@@ -9038,6 +10014,26 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Steal%20Breath",
         "key": "Steal Breath"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Steal%20Power",
+        "key": "Steal Power"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Steal%20Size",
+        "key": "Steal Size"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Steal%20Voice",
+        "key": "Steal Voice"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Steal%20Years",
+        "key": "Steal Years"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Steal%20Years,%20Greater",
+        "key": "Steal Years, Greater"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Steam%20Ray%20Fusillade",
@@ -9136,8 +10132,16 @@
         "key": "Stricken Heart"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Strip%20Scales",
+        "key": "Strip Scales"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Strong%20Jaw",
         "key": "Strong Jaw"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Strong%20Wings",
+        "key": "Strong Wings"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Stumble%20Gap",
@@ -9176,8 +10180,16 @@
         "key": "Suffocation"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Suffocation,%20Instant",
+        "key": "Suffocation, Instant"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Suffocation,%20Mass",
         "key": "Suffocation, Mass"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Suffocation,%20Slow",
+        "key": "Suffocation, Slow"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Suggestion",
@@ -9194,6 +10206,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Ancestral%20Guardian",
         "key": "Summon Ancestral Guardian"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Barghest%20I",
+        "key": "Summon Barghest I"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Barghest%20II",
+        "key": "Summon Barghest II"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Cacodaemon",
@@ -9220,6 +10240,10 @@
         "key": "Summon Elder Worm"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Elemental%20Steed",
+        "key": "Summon Elemental Steed"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Erodaemon",
         "key": "Summon Erodaemon"
     },
@@ -9230,6 +10254,18 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Froghemoth",
         "key": "Summon Froghemoth"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Genie",
+        "key": "Summon Genie"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Genie,%20Greater",
+        "key": "Summon Genie, Greater"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Genie,%20Lesser",
+        "key": "Summon Genie, Lesser"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Giant%20Ally%20I",
@@ -9244,6 +10280,10 @@
         "key": "Summon Giant Ally III"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Greater%20Demon",
+        "key": "Summon Greater Demon"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Infernal%20Host",
         "key": "Summon Infernal Host"
     },
@@ -9254,6 +10294,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Kami",
         "key": "Summon Kami"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Laborers",
+        "key": "Summon Laborers"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Lesser%20Demon",
+        "key": "Summon Lesser Demon"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Lesser%20Psychopomp",
@@ -9388,6 +10436,10 @@
         "key": "Sunder Breaker"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sundered%20Serpent%20Coil",
+        "key": "Sundered Serpent Coil"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sundering%20Shards",
         "key": "Sundering Shards"
     },
@@ -9424,12 +10476,24 @@
         "key": "Surefoot Boots"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Surelife",
+        "key": "Surelife"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Surface%20Excursion",
         "key": "Surface Excursion"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Surmount%20Affliction",
         "key": "Surmount Affliction"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Suspend%20Drowning",
+        "key": "Suspend Drowning"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sustaining%20Legend",
+        "key": "Sustaining Legend"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Swallow%20Poison",
@@ -9564,6 +10628,10 @@
         "key": "Sympathetic Vibration"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sympathetic%20Wounds",
+        "key": "Sympathetic Wounds"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sympathy",
         "key": "Sympathy"
     },
@@ -9602,6 +10670,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tactical%20Formation",
         "key": "Tactical Formation"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tactical%20Insight",
+        "key": "Tactical Insight"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tactical%20Miscalculation",
@@ -9650,6 +10722,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tattoo%20Potion",
         "key": "Tattoo Potion"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tears%20to%20Wine",
+        "key": "Tears to Wine"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Technomancy",
@@ -9704,6 +10780,10 @@
         "key": "Telepathic Bond"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Telepathic%20Censure",
+        "key": "Telepathic Censure"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Telepathic%20Silence",
         "key": "Telepathic Silence"
     },
@@ -9718,6 +10798,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Teleport%20Object",
         "key": "Teleport Object"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Teleport%20Structure",
+        "key": "Teleport Structure"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Teleport%20Trap",
+        "key": "Teleport Trap"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Teleport,%20Greater",
@@ -9748,12 +10836,24 @@
         "key": "Temporary Resurrection"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Teratoid%20Caress",
+        "key": "Teratoid Caress"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Terraform",
+        "key": "Terraform"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Terrain%20Bond",
         "key": "Terrain Bond"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Terrible%20Remorse",
         "key": "Terrible Remorse"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Thanatotic%20Fury",
+        "key": "Thanatotic Fury"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Thaumaturgic%20Circle",
@@ -9778,6 +10878,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Thorn%20Javelin",
         "key": "Thorn Javelin"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Thorn%20Snare",
+        "key": "Thorn Snare"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Thorny%20Entanglement",
@@ -9852,6 +10956,10 @@
         "key": "Thundering Drums"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Thunderous%20Footfalls",
+        "key": "Thunderous Footfalls"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Thunderstomp",
         "key": "Thunderstomp"
     },
@@ -9892,8 +11000,16 @@
         "key": "Tireless Pursuit"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Titanic%20Anchoring",
+        "key": "Titanic Anchoring"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Toilsome%20Chant",
         "key": "Toilsome Chant"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tomb%20Legion",
+        "key": "Tomb Legion"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tongues",
@@ -9906,6 +11022,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Torpid%20Reanimation",
         "key": "Torpid Reanimation"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Torrent%20of%20Elemental%20Rage",
+        "key": "Torrent of Elemental Rage"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Touch%20Injection",
@@ -9934,6 +11054,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Touch%20of%20Idiocy",
         "key": "Touch of Idiocy"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Touch%20of%20Madness",
+        "key": "Touch of Madness"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Touch%20of%20Mercy",
@@ -10012,6 +11136,10 @@
         "key": "Transfer Familiar"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Transfer%20Regeneration",
+        "key": "Transfer Regeneration"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Transfer%20Tattoo",
         "key": "Transfer Tattoo"
     },
@@ -10052,6 +11180,14 @@
         "key": "Transmute Rock to Mud"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Transmute%20Wine%20to%20Blood",
+        "key": "Transmute Wine to Blood"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Transplant%20Visage",
+        "key": "Transplant Visage"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Transport%20via%20Plants",
         "key": "Transport via Plants"
     },
@@ -10062,6 +11198,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Traveling%20Dream",
         "key": "Traveling Dream"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Treacherous%20Teleport",
+        "key": "Treacherous Teleport"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Treasure%20Stitching",
@@ -10100,8 +11240,16 @@
         "key": "True Appraisal"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=True%20Creation",
+        "key": "True Creation"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=True%20Form",
         "key": "True Form"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=True%20Prognostication",
+        "key": "True Prognostication"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=True%20Resurrection",
@@ -10154,6 +11302,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Twisted%20Space",
         "key": "Twisted Space"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Umbral%20Infusion",
+        "key": "Umbral Infusion"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Umbral%20Infusion,%20Mass",
+        "key": "Umbral Infusion, Mass"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Umbral%20Strike",
@@ -10256,6 +11412,14 @@
         "key": "Unhallow"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unhallowed%20Blows",
+        "key": "Unhallowed Blows"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unhallowed%20Blows,%20Greater",
+        "key": "Unhallowed Blows, Greater"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unholy%20Aura",
         "key": "Unholy Aura"
     },
@@ -10296,6 +11460,10 @@
         "key": "Unliving Rage"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unlock%20Flesh",
+        "key": "Unlock Flesh"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unnatural%20Lust",
         "key": "Unnatural Lust"
     },
@@ -10304,8 +11472,16 @@
         "key": "Unprepared Combatant"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unravel%20Destiny",
+        "key": "Unravel Destiny"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unseen%20Crew",
         "key": "Unseen Crew"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unseen%20Engineers",
+        "key": "Unseen Engineers"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unseen%20Servant",
@@ -10322,6 +11498,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unshakable%20Zeal",
         "key": "Unshakable Zeal"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unspoken%20Name",
+        "key": "Unspoken Name"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Untold%20Wonder",
@@ -10346,6 +11526,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Urban%20Step",
         "key": "Urban Step"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Urgathoa%27s%20Beacon",
+        "key": "Urgathoa's Beacon"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Utter%20Contempt",
@@ -10376,6 +11560,10 @@
         "key": "Veil"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Veil%20of%20Ash",
+        "key": "Veil of Ash"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Veil%20of%20Heaven",
         "key": "Veil of Heaven"
     },
@@ -10404,8 +11592,16 @@
         "key": "Venomous Bolt"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Venomous%20Promise",
+        "key": "Venomous Promise"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ventriloquism",
         "key": "Ventriloquism"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Vermicious%20Assumption",
+        "key": "Vermicious Assumption"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Vermin%20Shape%20I",
@@ -10448,6 +11644,10 @@
         "key": "Vigor"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Vile%20Dog%20Transformation",
+        "key": "Vile Dog Transformation"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Village%20Veil",
         "key": "Village Veil"
     },
@@ -10464,6 +11664,14 @@
         "key": "Violent Accident"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Violent%20Misfire",
+        "key": "Violent Misfire"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Violent%20Misfire,%20Greater",
+        "key": "Violent Misfire, Greater"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Viper%20Bomb%20Admixture",
         "key": "Viper Bomb Admixture"
     },
@@ -10474,6 +11682,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Virtuoso%20Performance",
         "key": "Virtuoso Performance"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Virulence",
+        "key": "Virulence"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Virulent%20Miasma",
@@ -10490,6 +11702,14 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Vision%20of%20Lamashtu",
         "key": "Vision of Lamashtu"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Visualization%20of%20the%20Body",
+        "key": "Visualization of the Body"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Visualization%20of%20the%20Mind",
+        "key": "Visualization of the Mind"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Vitriolic%20Mist",
@@ -10510,6 +11730,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Vomit%20Swarm",
         "key": "Vomit Swarm"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Vomit%20Twin",
+        "key": "Vomit Twin"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Vortex",
@@ -10574,6 +11798,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wall%20of%20Lava",
         "key": "Wall of Lava"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wall%20of%20Light",
+        "key": "Wall of Light"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wall%20of%20Mist",
@@ -10660,6 +11888,10 @@
         "key": "Water Breathing"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Water%20Shield",
+        "key": "Water Shield"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Water%20Walk",
         "key": "Water Walk"
     },
@@ -10720,12 +11952,24 @@
         "key": "Web"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Web%20Bolt",
+        "key": "Web Bolt"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Web%20Cloud",
+        "key": "Web Cloud"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Web%20Shelter",
         "key": "Web Shelter"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Weird",
         "key": "Weird"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=What%20Grows%20Within",
+        "key": "What Grows Within"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Whip%20of%20Ants",
@@ -10868,6 +12112,10 @@
         "key": "World Wave"
     },
         {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wracking%20Ray",
+        "key": "Wracking Ray"
+    },
+        {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wrath",
         "key": "Wrath"
     },
@@ -10882,6 +12130,10 @@
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wreath%20of%20Blades",
         "key": "Wreath of Blades"
+    },
+        {
+        "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Yellow%20Sign",
+        "key": "Yellow Sign"
     },
         {
         "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Youthful%20Appearance",

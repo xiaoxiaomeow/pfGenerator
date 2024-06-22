@@ -12,8 +12,8 @@ import java.nio.charset.StandardCharsets;
 
 public class Single {
     public static void main(String[] args) throws IOException {
-        String key = "Water Shield";
-        String urlString = "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Water%20Shield";
+        String key = "Web Bolt";
+        String urlString = "https://www.aonprd.com/SpellDisplay.aspx?ItemName=" + key.replaceAll(" ", "%20");
 
         System.out.println("Fetching " + key);
 

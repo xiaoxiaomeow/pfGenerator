@@ -11,7 +11,7 @@ public class Deploy {
 
     public static void generateIndex () throws IOException {
         File source = new File("spells/translated");
-        File target = new File("../../pathfinder/spellsIndex.js");
+        File target = new File("../../pathfinder/static/script/spellsIndex.js");
 
         JSONArray spells = new JSONArray();
         for (File spellFile : source.listFiles()) {
@@ -30,12 +30,12 @@ public class Deploy {
 
             spells.add(index);
         }
-        Tools.writeFile(target, "var spellsIndex = " + spells.toString(4));
+        Tools.writeFile(target, "export const spellsIndex = " + spells.toString(4) + ";");
     }
 
     public static void copyFiles () throws IOException {
         File source = new File("spells/translated");
-        File target = new File("../../pathfinder/spells");
+        File target = new File("../../pathfinder/static/spells");
         Tools.clearPath(target);
         target.mkdirs();
 

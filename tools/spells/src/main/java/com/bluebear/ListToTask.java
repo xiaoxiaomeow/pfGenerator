@@ -15,7 +15,7 @@ public class ListToTask {
 
         String content = Tools.readFile(source);
         JSONArray spells = new JSONArray();
-        String regex = "<a href=\"(https://www.aonprd.com/SpellDisplay.aspx\\?ItemName=[^\"]*)\">(?:|<img src=\"[^\"]*\" title=\"[^\"]*\" style=\"[^\"]*\">)\\s(?:|<img src=\"[^\"]*\" title=\"[^\"]*\" style=\"[^\"]*\">)\\s*(\\S[^<>]*?\\S)\\s*</a>";
+        String regex = "<a href=\"(https://www.aonprd.com/SpellDisplay.aspx\\?ItemName=[^\"]*)\">(?:|<img src=\"[^\"]*\" title=\"[^\"]*\" style=\"[^\"]*\">)\\s*(?:|<img src=\"[^\"]*\" title=\"[^\"]*\" style=\"[^\"]*\">)\\s*(\\S[^<>]*?\\S)\\s*</a>";
         Matcher matcher = Pattern.compile(regex).matcher(content);
         while (matcher.find()) {
             JSONObject spell = new JSONObject();
