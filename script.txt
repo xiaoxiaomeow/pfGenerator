@@ -35,3 +35,6 @@ $3 ($4) [$6]
 \n\n([^ ]*) ([^【】\n]*?)(?:|【.*?】)\n
 
 \n\n([^ ]*) ([^（）\n]*?) *(?:|（.*?）) *\n
+
+Please translate the following texts to Chinese, using the following translations for words. Spell Level: 法术环级, ability: 属性, ability score: 属性值, paladin：圣武士, modifier: 调整值, bonus: 加值, penalty: 减值. Do not add any 《》.
+
